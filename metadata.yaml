@@ -1,5 +1,8 @@
 _repo: Captain-Macklin--His-Memoirs_6015
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -12,6 +15,8 @@ description: An ambitious adventure story that follows Captain Macklin called on
   of Davis's most fascinating heroes through a South American revolution and a maze
   of military maneuvers. Written with the robust vivacity and man's man" perspective
   for which Davis is well-known, Captain Macklin is an epic adventure.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6015#Captain-Macklin--His-Memoirs
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
